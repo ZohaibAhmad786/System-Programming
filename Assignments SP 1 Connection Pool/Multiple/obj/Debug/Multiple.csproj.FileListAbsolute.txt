@@ -1,0 +1,6 @@
+F:\Study Material\BSCS-7C\System Programming\Assignments SP 1 Connection Pool\Multiple\bin\Debug\Multiple.exe.config
+F:\Study Material\BSCS-7C\System Programming\Assignments SP 1 Connection Pool\Multiple\bin\Debug\Multiple.exe
+F:\Study Material\BSCS-7C\System Programming\Assignments SP 1 Connection Pool\Multiple\bin\Debug\Multiple.pdb
+F:\Study Material\BSCS-7C\System Programming\Assignments SP 1 Connection Pool\Multiple\obj\Debug\Multiple.exe
+F:\Study Material\BSCS-7C\System Programming\Assignments SP 1 Connection Pool\Multiple\obj\Debug\Multiple.pdb
+F:\Study Material\BSCS-7C\System Programming\Assignments SP 1 Connection Pool\Multiple\obj\Debug\Multiple.csprojResolveAssemblyReference.cache

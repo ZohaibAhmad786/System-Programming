@@ -1,0 +1,11 @@
+F:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\bin\Debug\ThreadSunchronization.exe
+F:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\bin\Debug\ThreadSunchronization.pdb
+F:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\obj\Debug\ThreadSunchronization.csprojResolveAssemblyReference.cache
+F:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\obj\Debug\ThreadSunchronization.exe
+F:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\obj\Debug\ThreadSunchronization.pdb
+E:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\bin\Debug\ThreadSunchronization.exe.config
+E:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\obj\Debug\ThreadSunchronization.exe
+E:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\obj\Debug\ThreadSunchronization.pdb
+E:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\bin\Debug\ThreadSunchronization.exe
+E:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\bin\Debug\ThreadSunchronization.pdb
+E:\Study Material\BSCS-7C\System Programming\ThreadSunchronization\ThreadSunchronization\obj\Debug\ThreadSunchronization.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\Study Material\BSCS-7C\System Programming\GroupByAssignment2\GroupByAssignment2\bin\Debug\GroupByAssignment2.exe.config
+E:\Study Material\BSCS-7C\System Programming\GroupByAssignment2\GroupByAssignment2\bin\Debug\GroupByAssignment2.exe
+E:\Study Material\BSCS-7C\System Programming\GroupByAssignment2\GroupByAssignment2\bin\Debug\GroupByAssignment2.pdb
+E:\Study Material\BSCS-7C\System Programming\GroupByAssignment2\GroupByAssignment2\obj\Debug\GroupByAssignment2.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\GroupByAssignment2\GroupByAssignment2\obj\Debug\GroupByAssignment2.exe
+E:\Study Material\BSCS-7C\System Programming\GroupByAssignment2\GroupByAssignment2\obj\Debug\GroupByAssignment2.pdb

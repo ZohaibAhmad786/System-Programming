@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SYSTEMPROGRAMMINGModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="STUDENT">
+    <Key>
+      <PropertyRef Name="ARID_NO" />
+    </Key>
+    <Property Name="ARID_NO" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="FULL_NAME" Type="varchar" MaxLength="20" />
+    <Property Name="CITY" Type="varchar" MaxLength="15" />
+    <Property Name="DISCIPLINE" Type="varchar" MaxLength="10" />
+    <Property Name="AGE" Type="int" />
+    <Property Name="GENDER" Type="char" MaxLength="1" />
+    <Property Name="CGPA" Type="float" />
+  </EntityType>
+  <EntityContainer Name="SYSTEMPROGRAMMINGModelStoreContainer">
+    <EntitySet Name="STUDENT" EntityType="Self.STUDENT" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

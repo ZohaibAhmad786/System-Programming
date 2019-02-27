@@ -1,0 +1,6 @@
+E:\Study Material\BSCS-7C\System Programming\SingleJoinUsingLINQ\MultipleJoinsLINQ\bin\Debug\MultipleJoinsLINQ.exe.config
+E:\Study Material\BSCS-7C\System Programming\SingleJoinUsingLINQ\MultipleJoinsLINQ\bin\Debug\MultipleJoinsLINQ.exe
+E:\Study Material\BSCS-7C\System Programming\SingleJoinUsingLINQ\MultipleJoinsLINQ\bin\Debug\MultipleJoinsLINQ.pdb
+E:\Study Material\BSCS-7C\System Programming\SingleJoinUsingLINQ\MultipleJoinsLINQ\obj\Debug\MultipleJoinsLINQ.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\SingleJoinUsingLINQ\MultipleJoinsLINQ\obj\Debug\MultipleJoinsLINQ.exe
+E:\Study Material\BSCS-7C\System Programming\SingleJoinUsingLINQ\MultipleJoinsLINQ\obj\Debug\MultipleJoinsLINQ.pdb

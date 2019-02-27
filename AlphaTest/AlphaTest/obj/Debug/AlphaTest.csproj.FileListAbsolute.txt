@@ -1,0 +1,6 @@
+E:\Study Material\BSCS-7C\System Programming\AlphaTest\AlphaTest\bin\Debug\AlphaTest.exe.config
+E:\Study Material\BSCS-7C\System Programming\AlphaTest\AlphaTest\bin\Debug\AlphaTest.exe
+E:\Study Material\BSCS-7C\System Programming\AlphaTest\AlphaTest\bin\Debug\AlphaTest.pdb
+E:\Study Material\BSCS-7C\System Programming\AlphaTest\AlphaTest\obj\Debug\AlphaTest.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\AlphaTest\AlphaTest\obj\Debug\AlphaTest.exe
+E:\Study Material\BSCS-7C\System Programming\AlphaTest\AlphaTest\obj\Debug\AlphaTest.pdb

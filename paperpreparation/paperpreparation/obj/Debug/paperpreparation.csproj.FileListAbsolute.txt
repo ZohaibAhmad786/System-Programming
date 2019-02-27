@@ -1,0 +1,6 @@
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\paperpreparation\bin\Debug\paperpreparation.exe.config
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\paperpreparation\bin\Debug\paperpreparation.exe
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\paperpreparation\bin\Debug\paperpreparation.pdb
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\paperpreparation\obj\Debug\paperpreparation.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\paperpreparation\obj\Debug\paperpreparation.exe
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\paperpreparation\obj\Debug\paperpreparation.pdb

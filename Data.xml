@@ -1,0 +1,12 @@
+<company>
+	<staff id="101" Dep="M" >
+		<Name>Ahmad</Name>
+		<Experience>3</Experience>
+		<Designation>Salesperson</Designation>
+	</staff>
+	<staff id="102" Dep="F">
+		<Name>Usman</Name>
+		<Experience>10</Experience>
+		<Designation>Manager</Designation>
+	</staff>
+</company>

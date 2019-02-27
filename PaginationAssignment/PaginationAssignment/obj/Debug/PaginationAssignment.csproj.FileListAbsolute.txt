@@ -1,0 +1,9 @@
+E:\Study Material\BSCS-7C\System Programming\PaginationAssignment\PaginationAssignment\bin\Debug\PaginationAssignment.exe.config
+E:\Study Material\BSCS-7C\System Programming\PaginationAssignment\PaginationAssignment\bin\Debug\PaginationAssignment.exe
+E:\Study Material\BSCS-7C\System Programming\PaginationAssignment\PaginationAssignment\bin\Debug\PaginationAssignment.pdb
+E:\Study Material\BSCS-7C\System Programming\PaginationAssignment\PaginationAssignment\obj\Debug\PaginationAssignment.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\PaginationAssignment\PaginationAssignment\obj\Debug\PaginationAssignment.Form1.resources
+E:\Study Material\BSCS-7C\System Programming\PaginationAssignment\PaginationAssignment\obj\Debug\PaginationAssignment.Properties.Resources.resources
+E:\Study Material\BSCS-7C\System Programming\PaginationAssignment\PaginationAssignment\obj\Debug\PaginationAssignment.csproj.GenerateResource.Cache
+E:\Study Material\BSCS-7C\System Programming\PaginationAssignment\PaginationAssignment\obj\Debug\PaginationAssignment.exe
+E:\Study Material\BSCS-7C\System Programming\PaginationAssignment\PaginationAssignment\obj\Debug\PaginationAssignment.pdb

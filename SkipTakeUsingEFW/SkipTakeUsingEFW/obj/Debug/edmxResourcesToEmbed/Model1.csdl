@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SYSTEMPROGRAMMINGModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="STUDENT">
+    <Key>
+      <PropertyRef Name="ARID_NO" />
+    </Key>
+    <Property Name="ARID_NO" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FULL_NAME" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="CITY" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="DISCIPLINE" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="AGE" Type="Int32" />
+    <Property Name="GENDER" Type="String" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Name="CGPA" Type="Double" />
+  </EntityType>
+  <EntityContainer Name="SYSTEMPROGRAMMINGEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="STUDENTs" EntityType="Self.STUDENT" />
+  </EntityContainer>
+</Schema>

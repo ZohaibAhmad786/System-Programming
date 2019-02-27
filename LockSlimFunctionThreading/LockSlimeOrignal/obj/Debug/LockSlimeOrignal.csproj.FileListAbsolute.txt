@@ -1,0 +1,12 @@
+F:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\bin\Debug\LockSlimeOrignal.exe.config
+F:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\bin\Debug\LockSlimeOrignal.exe
+F:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\bin\Debug\LockSlimeOrignal.pdb
+F:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\obj\Debug\LockSlimeOrignal.csprojResolveAssemblyReference.cache
+F:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\obj\Debug\LockSlimeOrignal.exe
+F:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\obj\Debug\LockSlimeOrignal.pdb
+E:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\bin\Debug\LockSlimeOrignal.exe.config
+E:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\obj\Debug\LockSlimeOrignal.exe
+E:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\obj\Debug\LockSlimeOrignal.pdb
+E:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\bin\Debug\LockSlimeOrignal.exe
+E:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\bin\Debug\LockSlimeOrignal.pdb
+E:\Study Material\BSCS-7C\System Programming\LockSlimFunctionThreading\LockSlimeOrignal\obj\Debug\LockSlimeOrignal.csprojResolveAssemblyReference.cache

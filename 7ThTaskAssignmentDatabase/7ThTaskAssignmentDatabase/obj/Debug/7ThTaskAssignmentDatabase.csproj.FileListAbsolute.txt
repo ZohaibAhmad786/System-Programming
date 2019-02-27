@@ -1,0 +1,11 @@
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\bin\Debug\7ThTaskAssignmentDatabase.exe.config
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\bin\Debug\7ThTaskAssignmentDatabase.exe
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\bin\Debug\7ThTaskAssignmentDatabase.pdb
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\obj\Debug\7ThTaskAssignmentDatabase.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\obj\Debug\_7ThTaskAssignmentDatabase.Form1.resources
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\obj\Debug\_7ThTaskAssignmentDatabase.Properties.Resources.resources
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\obj\Debug\7ThTaskAssignmentDatabase.csproj.GenerateResource.Cache
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\obj\Debug\7ThTaskAssignmentDatabase.exe
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\obj\Debug\7ThTaskAssignmentDatabase.pdb
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\obj\Debug\_7ThTaskAssignmentDatabase.Grouping_Assignment.resources
+E:\Study Material\BSCS-7C\System Programming\7ThTaskAssignmentDatabase\7ThTaskAssignmentDatabase\obj\Debug\_7ThTaskAssignmentDatabase.LabTask2.resources

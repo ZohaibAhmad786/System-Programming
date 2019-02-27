@@ -1,0 +1,5 @@
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\client\bin\Debug\client.exe.config
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\client\bin\Debug\client.exe
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\client\bin\Debug\client.pdb
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\client\obj\Debug\client.exe
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\client\obj\Debug\client.pdb

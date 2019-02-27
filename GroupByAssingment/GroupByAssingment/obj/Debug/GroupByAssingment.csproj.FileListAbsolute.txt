@@ -1,0 +1,6 @@
+E:\Study Material\BSCS-7C\System Programming\GroupByAssingment\GroupByAssingment\bin\Debug\GroupByAssingment.exe.config
+E:\Study Material\BSCS-7C\System Programming\GroupByAssingment\GroupByAssingment\bin\Debug\GroupByAssingment.exe
+E:\Study Material\BSCS-7C\System Programming\GroupByAssingment\GroupByAssingment\bin\Debug\GroupByAssingment.pdb
+E:\Study Material\BSCS-7C\System Programming\GroupByAssingment\GroupByAssingment\obj\Debug\GroupByAssingment.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\GroupByAssingment\GroupByAssingment\obj\Debug\GroupByAssingment.exe
+E:\Study Material\BSCS-7C\System Programming\GroupByAssingment\GroupByAssingment\obj\Debug\GroupByAssingment.pdb

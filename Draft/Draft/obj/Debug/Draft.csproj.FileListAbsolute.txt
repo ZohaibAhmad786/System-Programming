@@ -1,0 +1,8 @@
+F:\Study Material\BSCS-7C\System Programming\Draft\Draft\bin\Debug\Draft.exe.config
+F:\Study Material\BSCS-7C\System Programming\Draft\Draft\obj\Debug\Draft.csprojResolveAssemblyReference.cache
+F:\Study Material\BSCS-7C\System Programming\Draft\Draft\obj\Debug\Draft.Properties.Resources.resources
+F:\Study Material\BSCS-7C\System Programming\Draft\Draft\obj\Debug\Draft.csproj.GenerateResource.Cache
+F:\Study Material\BSCS-7C\System Programming\Draft\Draft\bin\Debug\Draft.exe
+F:\Study Material\BSCS-7C\System Programming\Draft\Draft\bin\Debug\Draft.pdb
+F:\Study Material\BSCS-7C\System Programming\Draft\Draft\obj\Debug\Draft.exe
+F:\Study Material\BSCS-7C\System Programming\Draft\Draft\obj\Debug\Draft.pdb

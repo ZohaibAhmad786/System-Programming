@@ -1,0 +1,5 @@
+E:\Study Material\BSCS-7C\System Programming\Delegates_SystemProgramming\Simple Delegates\bin\Debug\Simple Delegates.exe.config
+E:\Study Material\BSCS-7C\System Programming\Delegates_SystemProgramming\Simple Delegates\bin\Debug\Simple Delegates.exe
+E:\Study Material\BSCS-7C\System Programming\Delegates_SystemProgramming\Simple Delegates\bin\Debug\Simple Delegates.pdb
+E:\Study Material\BSCS-7C\System Programming\Delegates_SystemProgramming\Simple Delegates\obj\Debug\Simple Delegates.exe
+E:\Study Material\BSCS-7C\System Programming\Delegates_SystemProgramming\Simple Delegates\obj\Debug\Simple Delegates.pdb

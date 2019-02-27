@@ -1,0 +1,6 @@
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\TCPClient\bin\Debug\TCPClient.exe.config
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\TCPClient\bin\Debug\TCPClient.exe
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\TCPClient\bin\Debug\TCPClient.pdb
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\TCPClient\obj\Debug\TCPClient.exe
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\TCPClient\obj\Debug\TCPClient.pdb
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache

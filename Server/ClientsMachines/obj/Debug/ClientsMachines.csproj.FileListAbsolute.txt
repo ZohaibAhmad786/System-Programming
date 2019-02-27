@@ -1,0 +1,5 @@
+F:\Study Material\BSCS-7C\System Programming\Server\ClientsMachines\bin\Debug\ClientsMachines.exe.config
+F:\Study Material\BSCS-7C\System Programming\Server\ClientsMachines\bin\Debug\ClientsMachines.exe
+F:\Study Material\BSCS-7C\System Programming\Server\ClientsMachines\bin\Debug\ClientsMachines.pdb
+F:\Study Material\BSCS-7C\System Programming\Server\ClientsMachines\obj\Debug\ClientsMachines.exe
+F:\Study Material\BSCS-7C\System Programming\Server\ClientsMachines\obj\Debug\ClientsMachines.pdb

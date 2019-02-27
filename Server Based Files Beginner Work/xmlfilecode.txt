@@ -1,0 +1,229 @@
+package com.example.zohaibahmad.kidspuzzle;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+import android.widget.Toast;
+
+public class Puzzle1 extends AppCompatActivity {
+
+    private Button btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9;
+    public void ViewPuzzelChecker(){
+        if(btn1.getText().equals("1")){
+            if(btn2.getText().equals("2")){
+                if(btn3.getText().equals("3")){
+                    if(btn4.getText().equals("4")){
+                        if(btn5.getText().equals("5")){
+                            if(btn6.getText().equals("6")){
+                                if(btn7.getText().equals("7")){
+                                    if(btn8.getText().equals("8")){
+                                        if(btn9.getText().equals(".")){
+                                            Toast.makeText(getApplicationContext(),"Ap ny bna li ha puzzel",Toast.LENGTH_LONG).show();
+                                        }
+
+                                    }
+
+                                }
+
+                            }
+
+                        }
+                    }
+
+                }
+
+            }
+        }
+
+    }
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_puzzle1);
+        btn1=(Button)findViewById(R.id.btn1);
+        btn2=(Button)findViewById(R.id.btn2);
+        btn3=(Button)findViewById(R.id.btn3);
+        btn4=(Button)findViewById(R.id.btn4);
+        btn5=(Button)findViewById(R.id.btn5);
+        btn6=(Button)findViewById(R.id.btn6);
+        btn7=(Button)findViewById(R.id.btn7);
+        btn8=(Button)findViewById(R.id.btn8);
+        btn9=(Button)findViewById(R.id.btn9);
+        //Button 1
+
+
+        btn1.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(btn2.getText().equals(".")){
+                    btn2.setText(btn1.getText());
+                    btn1.setText(".");
+                }else if(btn4.getText().equals(".")){
+                    btn4.setText(btn1.getText());
+                    btn1.setText(".");
+                }
+                ViewPuzzelChecker();
+
+            }
+        });
+
+
+        //Button 2
+
+        btn2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(btn1.getText().equals(".")){
+                    btn1.setText(btn2.getText());
+                    btn2.setText(".");
+                }else if(btn3.getText().equals(".")){
+                    btn3.setText(btn2.getText());
+                    btn2.setText(".");
+                }else if(btn5.getText().equals(".")){
+                    btn5.setText(btn2.getText());
+                    btn2.setText(".");
+                }
+                ViewPuzzelChecker();
+
+            }
+        });
+
+
+        //Button 3
+
+        btn3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(btn2.getText().equals(".")){
+                    btn2.setText(btn3.getText());
+                    btn3.setText(".");
+                }else if(btn6.getText().equals(".")){
+                    btn6.setText(btn3.getText());
+                    btn3.setText(".");
+                }
+                ViewPuzzelChecker();
+
+            }
+        });
+
+
+        //Button 4
+
+
+        btn4.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(btn1.getText().equals(".")){
+                    btn1.setText(btn4.getText());
+                    btn4.setText(".");
+                }else if(btn5.getText().equals(".")){
+                    btn5.setText(btn4.getText());
+                    btn4.setText(".");
+                }else if(btn7.getText().equals(".")){
+                    btn7.setText(btn4.getText());
+                    btn4.setText(".");
+                }
+                ViewPuzzelChecker();
+
+            }
+        });
+
+
+
+        //Button 5
+
+        btn5.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(btn2.getText().equals(".")){
+                    btn2.setText(btn5.getText());
+                    btn5.setText(".");
+                }else if(btn4.getText().equals(".")){
+                    btn4.setText(btn5.getText());
+                    btn5.setText(".");
+                }else if(btn6.getText().equals(".")){
+                    btn6.setText(btn5.getText());
+                    btn5.setText(".");
+                }else if(btn8.getText().equals(".")){
+                    btn8.setText(btn5.getText());
+                    btn5.setText(".");
+                }
+                ViewPuzzelChecker();
+            }
+        });
+
+
+
+        //Button 6
+
+        btn6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(btn3.getText().equals(".")){
+                    btn3.setText(btn6.getText());
+                    btn6.setText(".");
+                }else if(btn5.getText().equals(".")){
+                    btn5.setText(btn6.getText());
+                    btn6.setText(".");
+                }else if(btn9.getText().equals(".")){
+                    btn9.setText(btn6.getText());
+                    btn6.setText(".");
+                }
+                ViewPuzzelChecker();
+            }
+        });
+
+        //Button 7
+
+
+        btn7.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(btn4.getText().equals(".")){
+                    btn4.setText(btn7.getText());
+                    btn7.setText(".");
+                }else if(btn8.getText().equals(".")){
+                    btn8.setText(btn7.getText());
+                    btn7.setText(".");
+                }
+                ViewPuzzelChecker();
+            }
+        });
+        //Button 8
+        btn8.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(btn9.getText().equals(".")){
+                            btn9.setText(btn8.getText());
+                            btn8.setText(".");
+                }else if(btn7.getText().equals(".")){
+
+                    btn7.setText(btn8.getText());
+                    btn8.setText(".");
+                }else if(btn5.getText().equals(".")){
+                    btn5.setText(btn8.getText());
+                    btn8.setText(".");
+
+                }
+                ViewPuzzelChecker();
+            }
+        });
+
+        //Button 9
+
+        btn9.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(btn6.getText().equals(".")){
+                    btn6.setText(btn9.getText());
+                    btn9.setText(".");
+                }else if(btn8.getText().equals(".")){
+                    btn8.setText(btn9.getText());
+                    btn9.setText(".");
+                }
+                ViewPuzzelChecker();
+            }
+        });
+    }
+}

@@ -1,0 +1,6 @@
+E:\Study Material\BSCS-7C\System Programming\LINQToXML\LINQToXML\bin\Debug\LINQToXML.exe.config
+E:\Study Material\BSCS-7C\System Programming\LINQToXML\LINQToXML\bin\Debug\LINQToXML.exe
+E:\Study Material\BSCS-7C\System Programming\LINQToXML\LINQToXML\bin\Debug\LINQToXML.pdb
+E:\Study Material\BSCS-7C\System Programming\LINQToXML\LINQToXML\obj\Debug\LINQToXML.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\LINQToXML\LINQToXML\obj\Debug\LINQToXML.exe
+E:\Study Material\BSCS-7C\System Programming\LINQToXML\LINQToXML\obj\Debug\LINQToXML.pdb

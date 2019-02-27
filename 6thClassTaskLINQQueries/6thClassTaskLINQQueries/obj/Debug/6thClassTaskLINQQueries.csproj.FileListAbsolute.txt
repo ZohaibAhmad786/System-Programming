@@ -1,0 +1,5 @@
+E:\Study Material\BSCS-7C\System Programming\6thClassTaskLINQQueries\6thClassTaskLINQQueries\bin\Debug\6thClassTaskLINQQueries.exe.config
+E:\Study Material\BSCS-7C\System Programming\6thClassTaskLINQQueries\6thClassTaskLINQQueries\bin\Debug\6thClassTaskLINQQueries.exe
+E:\Study Material\BSCS-7C\System Programming\6thClassTaskLINQQueries\6thClassTaskLINQQueries\bin\Debug\6thClassTaskLINQQueries.pdb
+E:\Study Material\BSCS-7C\System Programming\6thClassTaskLINQQueries\6thClassTaskLINQQueries\obj\Debug\6thClassTaskLINQQueries.exe
+E:\Study Material\BSCS-7C\System Programming\6thClassTaskLINQQueries\6thClassTaskLINQQueries\obj\Debug\6thClassTaskLINQQueries.pdb

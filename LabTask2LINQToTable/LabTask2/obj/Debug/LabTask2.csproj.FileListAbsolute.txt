@@ -1,0 +1,6 @@
+E:\Study Material\BSCS-7C\System Programming\LabTask2LINQToTable\LabTask2\bin\Debug\LabTask2.exe.config
+E:\Study Material\BSCS-7C\System Programming\LabTask2LINQToTable\LabTask2\bin\Debug\LabTask2.exe
+E:\Study Material\BSCS-7C\System Programming\LabTask2LINQToTable\LabTask2\bin\Debug\LabTask2.pdb
+E:\Study Material\BSCS-7C\System Programming\LabTask2LINQToTable\LabTask2\obj\Debug\LabTask2.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\LabTask2LINQToTable\LabTask2\obj\Debug\LabTask2.exe
+E:\Study Material\BSCS-7C\System Programming\LabTask2LINQToTable\LabTask2\obj\Debug\LabTask2.pdb

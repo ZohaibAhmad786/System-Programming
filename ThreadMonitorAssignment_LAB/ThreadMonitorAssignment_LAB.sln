@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorSendSMS", "MonitorSendSMS\MonitorSendSMS.csproj", "{05613E57-B1C6-4165-9422-5B4A68001FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabAssignmentTask", "LabAssignmentTask\LabAssignmentTask.csproj", "{A08AA178-CE52-494C-821E-B77B6E8E68DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05613E57-B1C6-4165-9422-5B4A68001FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05613E57-B1C6-4165-9422-5B4A68001FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05613E57-B1C6-4165-9422-5B4A68001FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05613E57-B1C6-4165-9422-5B4A68001FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08AA178-CE52-494C-821E-B77B6E8E68DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08AA178-CE52-494C-821E-B77B6E8E68DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08AA178-CE52-494C-821E-B77B6E8E68DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08AA178-CE52-494C-821E-B77B6E8E68DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

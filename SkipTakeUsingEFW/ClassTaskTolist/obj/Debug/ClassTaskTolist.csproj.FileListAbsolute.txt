@@ -1,0 +1,12 @@
+E:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\bin\Debug\ClassTaskTolist.exe.config
+E:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\bin\Debug\ClassTaskTolist.exe
+E:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\bin\Debug\ClassTaskTolist.pdb
+E:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\obj\Debug\ClassTaskTolist.exe
+E:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\obj\Debug\ClassTaskTolist.pdb
+E:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\obj\Debug\ClassTaskTolist.csprojResolveAssemblyReference.cache
+F:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\bin\Debug\ClassTaskTolist.exe.config
+F:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\obj\Debug\ClassTaskTolist.exe
+F:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\obj\Debug\ClassTaskTolist.pdb
+F:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\bin\Debug\ClassTaskTolist.exe
+F:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\bin\Debug\ClassTaskTolist.pdb
+F:\Study Material\BSCS-7C\System Programming\SkipTakeUsingEFW\ClassTaskTolist\obj\Debug\ClassTaskTolist.csprojResolveAssemblyReference.cache

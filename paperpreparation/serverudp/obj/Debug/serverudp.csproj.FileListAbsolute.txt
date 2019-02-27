@@ -1,0 +1,6 @@
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\serverudp\bin\Debug\serverudp.exe.config
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\serverudp\bin\Debug\serverudp.exe
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\serverudp\bin\Debug\serverudp.pdb
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\serverudp\obj\Debug\serverudp.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\serverudp\obj\Debug\serverudp.exe
+E:\Study Material\BSCS-7C\System Programming\paperpreparation\serverudp\obj\Debug\serverudp.pdb

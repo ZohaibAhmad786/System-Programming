@@ -1,0 +1,6 @@
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\SingleTCPServerApplication\bin\Debug\SingleTCPServerApplication.exe.config
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\SingleTCPServerApplication\bin\Debug\SingleTCPServerApplication.exe
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\SingleTCPServerApplication\bin\Debug\SingleTCPServerApplication.pdb
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\SingleTCPServerApplication\obj\Debug\SingleTCPServerApplication.exe
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\SingleTCPServerApplication\obj\Debug\SingleTCPServerApplication.pdb
+F:\Study Material\BSCS-7C\System Programming\TCPServerApplication\SingleTCPServerApplication\obj\Debug\SingleTCPServerApplication.csprojResolveAssemblyReference.cache

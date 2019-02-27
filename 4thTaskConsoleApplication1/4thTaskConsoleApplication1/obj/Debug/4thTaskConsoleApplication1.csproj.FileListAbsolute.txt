@@ -1,0 +1,6 @@
+E:\Study Material\BSCS-7C\System Programming\4thTaskConsoleApplication1\4thTaskConsoleApplication1\bin\Debug\4thTaskConsoleApplication1.exe.config
+E:\Study Material\BSCS-7C\System Programming\4thTaskConsoleApplication1\4thTaskConsoleApplication1\bin\Debug\4thTaskConsoleApplication1.exe
+E:\Study Material\BSCS-7C\System Programming\4thTaskConsoleApplication1\4thTaskConsoleApplication1\bin\Debug\4thTaskConsoleApplication1.pdb
+E:\Study Material\BSCS-7C\System Programming\4thTaskConsoleApplication1\4thTaskConsoleApplication1\obj\Debug\4thTaskConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\4thTaskConsoleApplication1\4thTaskConsoleApplication1\obj\Debug\4thTaskConsoleApplication1.exe
+E:\Study Material\BSCS-7C\System Programming\4thTaskConsoleApplication1\4thTaskConsoleApplication1\obj\Debug\4thTaskConsoleApplication1.pdb

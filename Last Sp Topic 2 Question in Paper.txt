@@ -1,0 +1,10 @@
+Internet Programming
+Network Programming
+Socket Programming
+
+App to App Communication
+
+TCP/IP	connection oriented not reliable Slow(Text case)
+UDP	connectionless protocol reliable Fast(Streaming videos)
+
+HTTP Web base

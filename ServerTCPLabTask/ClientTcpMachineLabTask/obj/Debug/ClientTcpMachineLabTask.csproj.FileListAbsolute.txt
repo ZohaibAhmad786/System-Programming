@@ -1,0 +1,16 @@
+F:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.Form1.resources
+F:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.Properties.Resources.resources
+F:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.csproj.GenerateResource.Cache
+F:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\bin\Debug\ClientTcpMachineLabTask.exe.config
+F:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\bin\Debug\ClientTcpMachineLabTask.exe
+F:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\bin\Debug\ClientTcpMachineLabTask.pdb
+F:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.exe
+F:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.pdb
+E:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\bin\Debug\ClientTcpMachineLabTask.exe.config
+E:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\bin\Debug\ClientTcpMachineLabTask.exe
+E:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\bin\Debug\ClientTcpMachineLabTask.pdb
+E:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.Form1.resources
+E:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.Properties.Resources.resources
+E:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.csproj.GenerateResource.Cache
+E:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.exe
+E:\Study Material\BSCS-7C\System Programming\ServerTCPLabTask\ClientTcpMachineLabTask\obj\Debug\ClientTcpMachineLabTask.pdb

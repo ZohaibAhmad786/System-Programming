@@ -1,0 +1,9 @@
+E:\Study Material\BSCS-7C\System Programming\TakeSkipMethod\TakeSkipMethod\bin\Debug\TakeSkipMethod.exe.config
+E:\Study Material\BSCS-7C\System Programming\TakeSkipMethod\TakeSkipMethod\bin\Debug\TakeSkipMethod.exe
+E:\Study Material\BSCS-7C\System Programming\TakeSkipMethod\TakeSkipMethod\bin\Debug\TakeSkipMethod.pdb
+E:\Study Material\BSCS-7C\System Programming\TakeSkipMethod\TakeSkipMethod\obj\Debug\TakeSkipMethod.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\TakeSkipMethod\TakeSkipMethod\obj\Debug\TakeSkipMethod.exe
+E:\Study Material\BSCS-7C\System Programming\TakeSkipMethod\TakeSkipMethod\obj\Debug\TakeSkipMethod.pdb
+F:\Study Material\BSCS-7C\System Programming\TakeSkipMethod\TakeSkipMethod\bin\Debug\TakeSkipMethod.exe.config
+F:\Study Material\BSCS-7C\System Programming\TakeSkipMethod\TakeSkipMethod\obj\Debug\TakeSkipMethod.exe
+F:\Study Material\BSCS-7C\System Programming\TakeSkipMethod\TakeSkipMethod\obj\Debug\TakeSkipMethod.pdb

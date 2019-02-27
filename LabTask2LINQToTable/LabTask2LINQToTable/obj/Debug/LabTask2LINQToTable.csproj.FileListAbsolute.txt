@@ -1,0 +1,1 @@
+E:\Study Material\BSCS-7C\System Programming\LabTask2LINQToTable\LabTask2LINQToTable\bin\Debug\LabTask2LINQToTable.exe.config

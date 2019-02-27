@@ -1,0 +1,9 @@
+E:\Study Material\BSCS-7C\System Programming\DraftGameVersion2\TCPServerMachine\bin\Debug\TCPServerMachine.exe.config
+E:\Study Material\BSCS-7C\System Programming\DraftGameVersion2\TCPServerMachine\bin\Debug\TCPServerMachine.exe
+E:\Study Material\BSCS-7C\System Programming\DraftGameVersion2\TCPServerMachine\bin\Debug\TCPServerMachine.pdb
+E:\Study Material\BSCS-7C\System Programming\DraftGameVersion2\TCPServerMachine\obj\Debug\TCPServerMachine.csprojResolveAssemblyReference.cache
+E:\Study Material\BSCS-7C\System Programming\DraftGameVersion2\TCPServerMachine\obj\Debug\TCPServerMachine.Form1.resources
+E:\Study Material\BSCS-7C\System Programming\DraftGameVersion2\TCPServerMachine\obj\Debug\TCPServerMachine.Properties.Resources.resources
+E:\Study Material\BSCS-7C\System Programming\DraftGameVersion2\TCPServerMachine\obj\Debug\TCPServerMachine.csproj.GenerateResource.Cache
+E:\Study Material\BSCS-7C\System Programming\DraftGameVersion2\TCPServerMachine\obj\Debug\TCPServerMachine.exe
+E:\Study Material\BSCS-7C\System Programming\DraftGameVersion2\TCPServerMachine\obj\Debug\TCPServerMachine.pdb
